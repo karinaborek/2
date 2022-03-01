@@ -1,0 +1,3 @@
+html-validate *.html
+
+,albo npx html-validate index.html żeby tymczasowo pobrać i otworzyć
